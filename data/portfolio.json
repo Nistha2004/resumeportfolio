@@ -1,1 +1,108 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Nistha Sinha",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Nistha Sinha",
+  "headerTaglineThree": "Aspiring Cybersecurity Analyst",
+  "headerTaglineFour": "based in India.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "themeColor": "#0b1d4f",
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Nistha2004"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/nistha-sinha-930802259/"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:nisthasinha21@gmail.com"
+    },
+    {
+      "id": "4",
+      "title": "Phone",
+      "link": "tel:+91-7099724639"
+    }
+  ],
+ "projects": [
+  {
+    "id": "1",
+    "title": "Phishing Attack Analysis",
+    "description": "Cybersecurity",
+    "imageSrc": "https://images.unsplash.com/photo-1591696331115-0a0d6cd7d39c?auto=format&fit=crop&w=800&q=80",
+    "url": "https://github.com/Nistha2004/phishing-attack-analysis"
+  },
+  {
+    "id": "2",
+    "title": "Smart Mirror Project",
+    "description": "IoT & Development",
+    "imageSrc": "https://images.unsplash.com/photo-1605902711622-cfb43c4433d9?auto=format&fit=crop&w=800&q=80",
+    "url": "https://drive.google.com/drive/folders/1-DANmUMJzVeMk4-q1YfQC4_HPP76-O9s?usp=drive_link"
+  },
+  
+    {
+      "id": "3",
+      "title": "PonderPod Study Website",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "url": "https://drive.google.com/drive/folders/1-Gew_4A_lvw4lrKjq4BzDOpPTijSdgW7?usp=drive_link"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Cybersecurity Analysis",
+      "description": "Analyzing phishing attacks, identifying Indicators of Compromise (IOCs), and understanding threat behavior."
+    },
+    {
+      "id": "2",
+      "title": "Threat Detection",
+      "description": "Understanding attack patterns and applying detection techniques used in SOC environments."
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "description": "Building responsive and functional web applications using modern technologies."
+    }
+  ],
+  "about": "I am a BCA graduate focusing on cybersecurity, particularly Security Operations (SOC), threat detection, and incident response. With a background in development and HR experience, I bring a combination of technical understanding and organizational awareness to security analysis.",
+  "resume": {
+    "tagline": "Aspiring Cybersecurity Analyst",
+    "description": "Focused on building a strong foundation in cybersecurity with hands-on projects in phishing analysis and threat detection.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Nov 2025 - Feb 2026",
+        "type": "Part-Time",
+        "position": "HR Recruiter - Elucidation Today",
+        "bullets": [
+          "Assisted in recruitment processes including sourcing, screening, and interview coordination."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "Aug 2025 - Sept 2025",
+        "type": "Internship",
+        "position": "Backend Development Intern - Greentree Group",
+        "bullets": [
+          "Worked with RESTful APIs and optimized database queries using Node.js and MySQL."
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "University of Science and Technology, Meghalaya",
+      "universityDate": "2022 - 2025",
+      "universityPara": "Bachelor of Computer Applications (BCA), Grade: A"
+    },
+    "languages": ["Python", "JavaScript", "HTML", "CSS"],
+    "frameworks": ["Node.js"],
+    "skills": ["Cybersecurity Fundamentals", "SOC", "Incident Response", "Threat Analysis"]
+  }
+}
