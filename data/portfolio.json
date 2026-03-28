@@ -73,12 +73,7 @@
     }
   ],
 
-  "aboutpara": "I am a BCA graduate with a growing focus on cybersecurity, driven by a strong interest in defensive security and Security Operations (SOC). I am particularly drawn to the investigative side of security—analyzing threats, uncovering attack patterns, and understanding how adversaries exploit systems.
-
-Through hands-on projects and practical labs, I have developed foundational skills in phishing analysis, log investigation, and identifying indicators of compromise (IOCs). I am deeply curious about how defensive teams detect, monitor, and respond to incidents in real time.
-
-With a background in development and structured problem-solving, I bring a balanced approach that combines technical awareness with analytical thinking. I am actively working toward building the skills required to contribute effectively in a SOC environment.",
-
+  "aboutpara": "I am a BCA graduate with a growing focus on cybersecurity, driven by a strong interest in defensive security and Security Operations (SOC). I am particularly drawn to the investigative side of security—analyzing threats, uncovering attack patterns, and understanding how adversaries exploit systems. Through hands-on projects and practical labs, I have developed foundational skills in phishing analysis, log investigation, and identifying indicators of compromise (IOCs). I am deeply curious about how defensive teams detect, monitor, and respond to incidents in real time. With a background in development and structured problem-solving, I bring a balanced approach that combines technical awareness with analytical thinking. I am actively working toward building the skills required to contribute effectively in a SOC environment.",
   "resume": {
     "tagline": "👋 Aspiring Cybersecurity Analyst",
     "description": "Focused on building a strong foundation in cybersecurity with hands-on projects in phishing analysis and threat detection.",
