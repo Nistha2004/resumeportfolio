@@ -4,11 +4,9 @@
   "headerTaglineTwo": "I'm Nistha Sinha",
   "headerTaglineThree": "Aspiring Cybersecurity Analyst",
   "headerTaglineFour": "based in India.",
-  "showCursor": true,
   "showBlog": false,
   "darkMode": true,
-  "themeColor": "#0b1d4f",
-  "showResume": true,
+
   "socials": [
     {
       "id": "1",
@@ -28,33 +26,34 @@
     {
       "id": "4",
       "title": "Phone",
-      "link": "tel:+91-7099724639"
+      "link": "tel:+917099724639"
     }
   ],
- "projects": [
-  {
-    "id": "1",
-    "title": "Phishing Attack Analysis",
-    "description": "Cybersecurity",
-    "imageSrc": "https://images.unsplash.com/photo-1591696331115-0a0d6cd7d39c?auto=format&fit=crop&w=800&q=80",
-    "url": "https://github.com/Nistha2004/phishing-attack-analysis"
-  },
-  {
-    "id": "2",
-    "title": "Smart Mirror Project",
-    "description": "IoT & Development",
-    "imageSrc": "https://images.unsplash.com/photo-1605902711622-cfb43c4433d9?auto=format&fit=crop&w=800&q=80",
-    "url": "https://drive.google.com/drive/folders/1-DANmUMJzVeMk4-q1YfQC4_HPP76-O9s?usp=drive_link"
-  },
-  
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "Phishing Attack Analysis",
+      "description": "Cybersecurity",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/Nistha2004/phishing-attack-analysis"
+    },
+    {
+      "id": "2",
+      "title": "Smart Mirror Project",
+      "description": "IoT & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "url": "https://drive.google.com/drive/folders/1-DANmUMJzVeMk4-q1YfQC4_HPP76-O9s?usp=drive_link"
+    },
     {
       "id": "3",
       "title": "PonderPod Study Website",
       "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
       "url": "https://drive.google.com/drive/folders/1-Gew_4A_lvw4lrKjq4BzDOpPTijSdgW7?usp=drive_link"
     }
   ],
+
   "services": [
     {
       "id": "1",
@@ -69,18 +68,21 @@
     {
       "id": "3",
       "title": "Web Development",
-      "description": "Building responsive and functional web applications using modern technologies."
+      "description": "Building responsive and functional web applications."
     }
   ],
-  "about": "I am a BCA graduate focusing on cybersecurity, particularly Security Operations (SOC), threat detection, and incident response. With a background in development and HR experience, I bring a combination of technical understanding and organizational awareness to security analysis.",
+
+  "aboutpara": "I am a BCA graduate focused on cybersecurity, especially in Security Operations (SOC), threat detection, and incident response. I have hands-on experience in phishing analysis and a background in development and HR, giving me both technical and organizational skills.",
+
   "resume": {
-    "tagline": "Aspiring Cybersecurity Analyst",
+    "tagline": "👋 Aspiring Cybersecurity Analyst",
     "description": "Focused on building a strong foundation in cybersecurity with hands-on projects in phishing analysis and threat detection.",
+
     "experiences": [
       {
         "id": "1",
         "dates": "Nov 2025 - Feb 2026",
-        "type": "Part-Time",
+        "type": "Part Time",
         "position": "HR Recruiter - Elucidation Today",
         "bullets": [
           "Assisted in recruitment processes including sourcing, screening, and interview coordination."
@@ -96,13 +98,15 @@
         ]
       }
     ],
+
     "education": {
       "universityName": "University of Science and Technology, Meghalaya",
       "universityDate": "2022 - 2025",
       "universityPara": "Bachelor of Computer Applications (BCA), Grade: A"
     },
+
     "languages": ["Python", "JavaScript", "HTML", "CSS"],
     "frameworks": ["Node.js"],
-    "skills": ["Cybersecurity Fundamentals", "SOC", "Incident Response", "Threat Analysis"]
+    "others": ["Cybersecurity Fundamentals", "SOC", "Incident Response", "Threat Analysis"]
   }
 }
