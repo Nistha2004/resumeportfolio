@@ -32,22 +32,29 @@
   ],
 
   "projects": [
+   {
+  "id": "1",
+  "title": "Log Analysis Pipeline",
+  "description": "Cybersecurity & Threat Detection",
+  "imageSrc": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+  "url": "https://github.com/Nistha2004/log-analysis-pipeline"
+},
     {
-      "id": "1",
+      "id": "2",
       "title": "Phishing Attack Analysis",
       "description": "Cybersecurity",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
       "url": "https://github.com/Nistha2004/phishing-attack-analysis"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Smart Mirror Project",
       "description": "IoT & Development",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
       "url": "https://drive.google.com/drive/folders/1-DANmUMJzVeMk4-q1YfQC4_HPP76-O9s?usp=drive_link"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "PonderPod Study Website",
       "description": "Web Development",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
